@@ -114,22 +114,21 @@ For what it's worth, I prefer dashes...
 ## Lists
 
 Create unordered lists using '-', '*', '+, 
-<!-- 
+
     Example with each 
 
     - item
     * item
     + item
     - sdfsd
--->
 
 You can create sublists by indenting
-<!-- 
+
     Example
 
     - item
     - subitem
--->
+
 
 Create ordered lists using a number prefix
 
